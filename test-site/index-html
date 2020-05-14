@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+    <link href="styles/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Home and Office</h1>
+    <h2>Indoor Club</h2>
+
+    <img src="images/indoor-club.png" alt="mytest-image">
+
+    <p> Hello World! My name is Nirvana, I am a 28 years old girl,I am from Brazil 
+    and now I am making this blog to give you tips about decoration, homeoffice, 
+    layout an everithing you need to make your house a cozy home and efficiente office.
+    The topics coverd in this blog will be:
+    </p>
+
+    <ul>
+      <li>Decoration</li>
+      <li>DIY</li>
+      <li>Arts and crafts</li>
+      <li>Redesign</li>
+      <li>Organization</li>
+      <li>Garden</li>
+    </ul>
+
+    <button>Change user</button>
+    <p> Have a look at my portfolio <a href="https://nirvanagyn.wixsite.com/portfolio">My portfolio</b> 
+    </p>
+    
+    <script src= "scripts/main.js"></script>
+
+
+
+
+  </body>
+</html> 

@@ -1,0 +1,36 @@
+  html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: "Balsamiq Sans", cursive; /* this should be the rest of the output you got from Google fonts */
+    background-color: #c0edc7;;
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0 0px;    
+    color: #ffe578;
+    text-shadow: 3px 3px 1px rgb(79, 5, 102);
+  }
+  h2 {
+    text-align: center;
+  }
+  p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgba(233, 118, 123, 0.918);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(0, 0, 0);
+  }
+  html {
+    
+  }
+ img {
+     display: block;
+     margin: 0 auto;
+     padding: auto;
+     }
